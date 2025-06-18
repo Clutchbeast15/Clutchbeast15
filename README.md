@@ -1,7 +1,7 @@
 
 <h1 align="center">🚀 Hey there, I'm Vaibhav aka BugBeast15 🛡️</h1>
 <p align="center">
-  <strong>🧠 Aspiring Smart Contract Auditor  | 🔍 Security-Focused | 🛠️ Solidity & Foundry Enthusiast</strong><br/>
+  <strong>🧠 Aspiring Smart Contract Auditor  | 🕵️‍♂️ Active Auditor on Code4rena | 🔍 Security-Focused | 🛠️ Solidity & Foundry Enthusiast</strong><br/>
   <em>Passionate about breaking smart contracts to make them bulletproof 🔐</em>
 </p>
 
