@@ -84,7 +84,7 @@ I love the thrill of exploring edge cases, breaking assumptions, and helping tea
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-sutar-977417349/)  
 - 🐦 [X (Twitter)](https://twitter.com/SutarVaibhav_15)  
-- 💬 DM me for audit collabs, feedback, or CTF jams!
+
 
 ---
 
