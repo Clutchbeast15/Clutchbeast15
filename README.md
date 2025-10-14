@@ -12,12 +12,6 @@
 🎯 **Mission:**  
 Become an elite **Smart Contract Auditor**, uncovering vulnerabilities before the hackers do.
 
-## 📌 Areas of Practice
-- Shadow auditing real-world DeFi protocols 🔬  
-- Mastering Foundry, Echidna, and advanced fuzzing techniques 🐞  
-- Solving CTFs (Ethernaut, Damn Vulnerable DeFi) ⚔️  
-- Analyzing DeFi hacks from [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) 💥  
-- Writing real-world audit reports & PoCs ✍️
 
 
 
@@ -44,31 +38,6 @@ A selection of my top repositories showcasing my audit work, learning journey, a
 | [🕵️‍♂️ Secudoku_Shadow_Audits](https://github.com/clutchbeast15/Secudoku_Shadow_Audits) | Shadow audits of real-world protocols — recreating and analyzing attack surfaces with PoCs and PDF reports. |
 
 
-
-
-
-## 🚧 Ongoing Projects
-
-- 📘 **Shadow Audits**  
-  Currently Auditing restaking protocol.
-  Writing detailed reports & PoCs.  
-
-- ⚙️ **CTF Progress**  
-  ✅ Ethernaut — [In Progress 🚀]  
-  ✅ Damn Vulnerable DeFi — [Queued 🎯]  
-  
-
-- 🔍 **Exploit Analysis**  
-  Deep-diving into hacks and understand them.
-
-
-
-## 💬 Why Security?
-
-⚖️ **"Code is law, but laws have loopholes. I hunt them."** 🕳️
-
-Smart contract security is what keeps billions in DeFi alive.  
-I love the thrill of exploring edge cases, breaking assumptions, and helping teams build **provably safer** protocols.
 
 
 
