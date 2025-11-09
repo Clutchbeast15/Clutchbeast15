@@ -38,8 +38,6 @@ A selection of my top repositories showcasing my audit work, learning journey, a
 | [🕵️‍♂️ Secudoku_Shadow_Audits](https://github.com/clutchbeast15/Secudoku_Shadow_Audits) | Shadow audits of real-world protocols — recreating and analyzing attack surfaces with PoCs and PDF reports. |
 
 
-[image alt] (https://github.com/Clutchbeast15/Clutchbeast15/blob/b2d5b66d977dcf949539e0ba71de7b43a492bb8f/blockchain-basics-badge.webp)
-
 
 ## 🌟 Vision & Values
 
@@ -60,7 +58,7 @@ A selection of my top repositories showcasing my audit work, learning journey, a
 <h3 align="center">🔐 Breaking Contracts to Make Them Unbreakable</h3>
 <h4 align="center">⚔️ Let's audit the future of finance together!</h4>
 
-https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png
+
 
 ---
 <!--
