@@ -60,6 +60,8 @@ A selection of my top repositories showcasing my audit work, learning journey, a
 <h3 align="center">🔐 Breaking Contracts to Make Them Unbreakable</h3>
 <h4 align="center">⚔️ Let's audit the future of finance together!</h4>
 
+https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png
+
 ---
 <!--
 **Clutchbeast15/Clutchbeast15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
