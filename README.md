@@ -1,76 +1,70 @@
+<h1 align="center">Vaibhav Tukaram Sutar</h1>
 
-<h1 align="center">🚀 Hey there, I'm Vaibhav  🛡️</h1>
-<p align="center">
-  <strong>🧠 Aspiring Smart Contract Auditor  | 🕵️‍♂️ Active Auditor on Code4rena | 🔍 Security-Focused | 🛠️ Solidity & Foundry Enthusiast</strong><br/>
-  <em>Passionate about breaking smart contracts to make them bulletproof 🔐</em>
+ <p align="center">Aspiring Web3 Security Researcher | Auditing | EVM | Solidity | DeFi Security </p>
+
+  <p align="center">
+<b>📧 Email:</b> sutarvaibhav4518@gmail.com |
+🐙 <b><a href="https://github.com/Clutchbeast15">GitHub</a></b> |
+🔗 <b><a href="https://www.linkedin.com/in/sutar-vaibhav">LinkedIn</a></b> |
+🐦 <b><a href="https://x.com/SutarVaibhav_15">Twitter</a></b>
 </p>
 
 ---
 
-## 🔥 About Me
-
-🎯 **Mission:**  
-Become an elite **Smart Contract Auditor**, uncovering vulnerabilities before the hackers do.
-
-[blockchain basic](https://github.com/Clutchbeast15/Clutchbeast15/blob/main/blockchain-basics-badge.webp)
-
-## 🧰 Tech Stack & Skills
-
-
-- 💻 Solidity (v0.8.x) – writing secure smart contracts using modern patterns and best practices
-
-- 🛠️ Foundry – writing unit tests with forge-std, debugging with console.log, and using cast for scripting
-
-- 🔍 Static Analysis – familiar with tools like Slither and Aderyn for detecting vulnerabilities and security issues
-
-- 🔐 Knowledge of Common Vulnerabilities – reentrancy, access control issues, tx.origin misuse, integer over/underflows, delegatecall abuse, and more
-
-
-## 📂 Featured Projects
-
-A selection of my top repositories showcasing my audit work, learning journey, and hands-on security research:
-
-| 🚀 Project | 📝 Description |
-|-----------|----------------|
-| [🧠 Ethernaut__Solutions](https://github.com/clutchbeast15/Ethernaut__Solutions) | CTF challenges solved using Foundry with detailed vulnerability analysis and exploit reports. |
-| [📋 Updraft-Security-Portfolio](https://github.com/clutchbeast15/Updraft-Security-Portfolio) | Audit reports written during the Cyfrin Smart Contract Security course. Demonstrates audit structure and methodology. |
-| [🕵️‍♂️ Secudoku_Shadow_Audits](https://github.com/clutchbeast15/Secudoku_Shadow_Audits) | Shadow audits of real-world protocols — recreating and analyzing attack surfaces with PoCs and PDF reports. |
-
-
-
-## 🌟 Vision & Values
-
-- ✅ **Precision over speed**  
-- 🔄 **Always verify. Never assume.**  
-- 💭 **Learn in public. Fail forward. Audit better.**
-
-
-
-## 📬 Let’s Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-sutar-977417349/)  
-- 🐦 [X (Twitter)](https://twitter.com/SutarVaibhav_15)  
-
+## 🧑‍💻 Professional Summary
+Aspiring smart contract auditor with hands-on experience performing shadow audits on real-world DeFi protocols. Skilled in identifying vulnerabilities and writing structured security reports. Actively learning new attack vectors with a strong interest in EVM internals, smart contract auditing, blockchain security, and mathematics.
 
 ---
 
-<h3 align="center">🔐 Breaking Contracts to Make Them Unbreakable</h3>
-<h4 align="center">⚔️ Let's audit the future of finance together!</h4>
+## 🛠 Technical Skills
 
+### **Languages & Frameworks**
+- Solidity  
+- Foundry  
 
+### **Auditing Tools**
+- Slither  
+- Aderyn  
+- Solidity Visual Developer  
+- Solidity Metrics  
+
+### **Other Skills**
+- Git & GitHub  
+- Technical report writing  
+- VS Code  
 
 ---
-<!--
-**Clutchbeast15/Clutchbeast15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 💼 Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [**Secudoku — Shadow Audits**](https://github.com/clutchbeast15/Secudoku_Shadow_Audits)
+- Performed shadow audits on **3 real-world projects** on the Secudoku platform.  
+- Uncovered **25 security issues**.  
+- Achieved **#2 leaderboard ranking**.
+
+---
+
+### [**Cyfrin Updraft — Security Course**](https://github.com/clutchbeast15/Updraft-Security-Portfolio)
+- Hands-on smart contract security training focused on Solidity, EVM fundamentals, and auditing techniques using Foundry.  
+- Practiced writing vulnerability findings, severity classifications, and PoCs.  
+- Strengthened understanding of common smart contract vulnerabilities.
+
+---
+
+### **Local CTF Challenges**
+- Solved **15+ [Ethernaut levels**](https://github.com/clutchbeast15/Ethernaut__Solutions) ( documented on GitHub).  
+- Improved exploit development and vulnerability analysis skills.
+
+---
+
+## 🎓 Certifications
+- Smart Contract Security — Cyfrin Updraft  
+- Solidity Smart Contract Development — Cyfrin Updraft  
+- Blockchain Basics — Chainlink  
+
+---
+
+## 🎓 Education
+**Bachelor of Engineering (B.E.)**  Electronics and Telecommunication , Mumbai University . 
+
+---
