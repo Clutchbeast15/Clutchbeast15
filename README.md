@@ -12,8 +12,7 @@
 🎯 **Mission:**  
 Become an elite **Smart Contract Auditor**, uncovering vulnerabilities before the hackers do.
 
-
-
+[blockchain basic](https://github.com/Clutchbeast15/Clutchbeast15/blob/main/blockchain-basics-badge.webp)
 
 ## 🧰 Tech Stack & Skills
 
