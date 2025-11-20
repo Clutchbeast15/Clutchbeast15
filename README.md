@@ -2,13 +2,6 @@
 
  <p align="center">Aspiring Web3 Security Researcher | Auditing | EVM | Solidity | DeFi Security </p>
 
-  <p align="center">
-<b>📧 Email:</b> sutarvaibhav4518@gmail.com |
-🐙 <b><a href="https://github.com/Clutchbeast15">GitHub</a></b> |
-🔗 <b><a href="https://www.linkedin.com/in/sutar-vaibhav">LinkedIn</a></b> |
-🐦 <b><a href="https://x.com/SutarVaibhav_15">Twitter</a></b>
-</p>
-
 ---
 
 ## 🧑‍💻 Professional Summary
