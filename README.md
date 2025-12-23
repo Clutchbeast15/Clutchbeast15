@@ -33,8 +33,7 @@ Aspiring smart contract auditor with hands-on experience performing shadow audit
 ### [**Secudoku — Shadow Audits**](https://github.com/clutchbeast15/Secudoku_Shadow_Audits)
 - Performed shadow audits on **3 real-world projects** on the Secudoku platform.  
 - Uncovered **25 security issues**.  
-- Achieved **#2 leaderboard ranking**.
-
+  
 ---
 
 ### [**Cyfrin Updraft — Security Course**](https://github.com/clutchbeast15/Updraft-Security-Portfolio)
