@@ -1,6 +1,6 @@
 ## Hi, I'm Vaibhav 👋  
 
-Aspiring **Credit analysis ** with a strong interest in  
+Aspiring **Credit analysis**  with a strong interest in  
 **Decentralised Finance** • **Risk analysis** . **Blockchain** • **ZK Proofs** • **Cryptography**
 
 🔍 Hands-on experience with common DeFi vulnerabilities & prevention  
